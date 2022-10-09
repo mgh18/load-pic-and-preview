@@ -1,0 +1,24 @@
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load_pic_and_preview.Form1.resources
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.AssemblyInfoInputs.cache
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.AssemblyInfo.cs
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\load pic and preview.exe
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\load pic and preview.deps.json
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\load pic and preview.runtimeconfig.json
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\load pic and preview.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\ref\load pic and preview.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\load pic and preview.pdb
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.csproj.CopyComplete
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\ref\load pic and preview.dll
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.pdb
+C:\Users\marziyeh\source\repos\load pic and preview\load pic and preview\obj\Debug\net6.0-windows\load pic and preview.genruntimeconfig.cache
